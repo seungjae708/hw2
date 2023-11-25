@@ -1,2 +1,2 @@
-hello, world
-My name is choi
+Hello, World!
+My name is Choi Seungjae.
